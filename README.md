@@ -1,16 +1,6 @@
 # number_guesser
 
-The user has to guess the apps chosen number
+![111](https://user-images.githubusercontent.com/60811662/204330703-87aafb0e-d201-47eb-a3c8-3868ad4de2b3.PNG)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![222](https://user-images.githubusercontent.com/60811662/204330779-1e29b40c-c90e-4fea-bda3-320bb208f1b8.PNG)
